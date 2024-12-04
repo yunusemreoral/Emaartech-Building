@@ -8,10 +8,10 @@
 
 # Kullanılan Teknolojiler 🎨
 
-BootStrap
-HTML5
-CSS3
-JS
+<li>BootStrap</li>
+<li>HTML5</li>
+<li>CSS3</li>
+<li>JS</li>
 
 # Ekran Görüntüsü 🎥
 
