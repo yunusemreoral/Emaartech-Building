@@ -15,7 +15,7 @@
 
 # Ekran Görüntüsü 🎥
 
-<img src="emaartech-building.gif" width="auto"> 
+<img src="emaartechbuilding.gif" width="auto"> 
 
 # İletişim 📩
 yunusemreoral@hotmail.com.tr
